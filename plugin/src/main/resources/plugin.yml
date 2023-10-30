@@ -1,0 +1,7 @@
+name: PoradnikMerlin
+version: '${project.version}'
+main: pl.mgtm.poradnikmerlin.PoradnikMerlin
+api-version: '1.20'
+authors: [m7rlin]
+description: Seria poradników do tworzenia pluginów - bardzo proste
+website: https://mc.mgtm.pl
